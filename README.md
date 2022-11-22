@@ -2,7 +2,7 @@
 
 ## CAD Software
 
-[[C 1 ].](https://www.comsol.com/rf-module) COMSOL. **_COMSOL_** [FEM]  
+[[C 1 ].](https://www.comsol.com/rf-module) COMSOL. **_COMSOL_** [FEM][BEM]  
 [[C 2 ].](https://www.3ds.com/products-services/simulia/products/cst-studio-suite/) SIMULIA. **_CST Microwave Studio_** [FEM][FIT][MoM]  
 [[C 3 ].](https://www.altair.com/feko/) Altair. **_FEKO_** [FDTD][FEM][MoM]  
 [[C 4 ].](https://www.ansys.com/products/electronics/ansys-hfss) Ansys. **_HFSS_** [FEM]  
