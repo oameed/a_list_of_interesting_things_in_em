@@ -19,6 +19,13 @@
 [[C12].](https://www.synopsys.com/implementation-and-signoff/ams-simulation/primesim-hspice.html) Synopsys. **_HSPICE_**  
 [[C13].](https://www.orcad.com/products/orcad-pspice-designer/overview) OrCAD. **_PSpice Designer_**  
 
+_Tutorials_
+
+[[view].](https://altairuniversity.com/free-ebook-electromagnetic-simulation-feko/) _Learn Basics of Electromagnetic Simulation with Altair Feko_  
+[[view].](https://altairuniversity.com/13342-antenna-analysis-design-using-feko-em-simulation-software-2/) _Antenna Analysis & Design using FEKO EM Simulation Software_  
+
+[[view].](https://www.keysight.com/us/en/assets/7018-04800/application-notes/5992-0707.pdf) _Advanced Design System (ADS) Circuit Design Cookbook 2.0_  
+
 ## References
 
 _Electrodynamics_
