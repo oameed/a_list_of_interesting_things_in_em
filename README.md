@@ -16,10 +16,13 @@
 [[C10].](https://www.pathloss.com/) CTE. **_Pathloss_**  
 
 [[C11].](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html) PathWave. **_Advanced Design System (ADS)_**  
-[[C12].](https://scikit-rf.readthedocs.io/en/latest/index.html) **_scikit-rf_** [[view on IEEE]](https://ieeexplore.ieee.org/document/9632487)  
+[[C12].](https://www.cadence.com/en_US/home/tools/system-analysis/rf-microwave-design/awr-microwave-office.html) Cadence. **_AWR Microwave Office_**  
+[[C13].](https://www.cadence.com/en_US/home/tools/system-analysis/rf-microwave-design/awr-tx-line.html) Cadence. **_AWR TX-LINE_**  
+[[C14].](https://scikit-rf.readthedocs.io/en/latest/index.html) **_scikit-rf_** [[view on IEEE]](https://ieeexplore.ieee.org/document/9632487)  
 
-[[C13].](https://www.synopsys.com/implementation-and-signoff/ams-simulation/primesim-hspice.html) Synopsys. **_HSPICE_**  
-[[C14].](https://www.orcad.com/products/orcad-pspice-designer/overview) OrCAD. **_PSpice Designer_**  
+[[C15].](https://www.synopsys.com/implementation-and-signoff/ams-simulation/primesim-hspice.html) Synopsys. **_HSPICE_**  
+[[C16].](https://www.orcad.com/products/orcad-pspice-designer/overview) OrCAD. **_PSpice Designer_**  
+[[C17].](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/analog-mixed-signal-simulation/pspice.html) Cadence. **_PSpice_**  
 
 _Tutorials_
 
