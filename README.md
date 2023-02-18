@@ -1,8 +1,8 @@
 # A List of Interesting Things in EM
 
-## Learning Electromagnetic Theory and Its Applications
+## Learning Electromagnetic Theory
 
-* **_A Handbook of Applied EM_**  
+**_A Handbook of Applied EM_**  
 _Supporting Repositories_  
 [[view]](https://gitlab.com/oameed/cem_fdtd_2d) Finite Difference Time Domain (FDTD) for 2D TEz Problems  
 [[view]](https://gitlab.com/oameed/cem_fdm_2d) Finite Difference Method (FDM) for 2D Problems  
@@ -11,27 +11,27 @@ _Supporting Repositories_
 
 ## CAD Software
 
-[[C 1 ].](https://www.comsol.com/rf-module) COMSOL. **_COMSOL_** [FEM][BEM]  
-[[C 2 ].](https://www.3ds.com/products-services/simulia/products/cst-studio-suite/) SIMULIA. **_CST Microwave Studio_** [FEM][FIT][MoM]  
-[[C 3 ].](https://www.altair.com/feko/) Altair. **_FEKO_** [FDTD][FEM][MoM]  
-[[C 4 ].](https://www.ansys.com/products/electronics/ansys-hfss) Ansys. **_HFSS_** [FEM]  
-[[C 5 ].](https://meep.readthedocs.io/en/latest/) **_Meep_** [FDTD]  
-[[C 6 ].](https://ipo.llnl.gov/technologies/it-and-communications/nec-v50-numerical-electromagnetic-code) LLNL. **_NEC_** [MoM]  
-[[C 7 ].](https://onelab.info/) **_ONELAB_** [FEM]  
-[[C 8 ].](https://www.remcom.com/xfdtd-3d-em-simulation-software) REMCOM. **_Xfdtd_** [FDTD]  
+[[view]](https://www.comsol.com/rf-module) COMSOL. **_COMSOL_** [FEM][BEM]  
+[[view]](https://www.3ds.com/products-services/simulia/products/cst-studio-suite/) SIMULIA. **_CST Microwave Studio_** [FEM][FIT][MoM]  
+[[view]](https://www.altair.com/feko/) Altair. **_FEKO_** [FDTD][FEM][MoM]  
+[[view]](https://www.ansys.com/products/electronics/ansys-hfss) Ansys. **_HFSS_** [FEM]  
+[[view]](https://meep.readthedocs.io/en/latest/) **_Meep_** [FDTD]  
+[[view]](https://ipo.llnl.gov/technologies/it-and-communications/nec-v50-numerical-electromagnetic-code) LLNL. **_NEC_** [MoM]  
+[[view]](https://onelab.info/) **_ONELAB_** [FEM]  
+[[view]](https://www.remcom.com/xfdtd-3d-em-simulation-software) REMCOM. **_Xfdtd_** [FDTD]  
 
-[[C 9 ].](https://www.3ds.com/products-services/simulia/products/antenna-magus/) SIMULIA. **_Antenna Magus_**  
+[[view]](https://www.3ds.com/products-services/simulia/products/antenna-magus/) SIMULIA. **_Antenna Magus_**  
 
-[[C10].](https://www.pathloss.com/) CTE. **_Pathloss_**  
+[[view]](https://www.pathloss.com/) CTE. **_Pathloss_**  
 
-[[C11].](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html) PathWave. **_Advanced Design System (ADS)_**  
-[[C12].](https://www.cadence.com/en_US/home/tools/system-analysis/rf-microwave-design/awr-microwave-office.html) Cadence. **_AWR Microwave Office_**  
-[[C13].](https://www.cadence.com/en_US/home/tools/system-analysis/rf-microwave-design/awr-tx-line.html) Cadence. **_AWR TX-LINE_**  
-[[C14].](https://scikit-rf.readthedocs.io/en/latest/index.html) **_scikit-rf_** [[view on IEEE]](https://ieeexplore.ieee.org/document/9632487)  
+[[view]](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html) PathWave. **_Advanced Design System (ADS)_**  
+[[view]](https://www.cadence.com/en_US/home/tools/system-analysis/rf-microwave-design/awr-microwave-office.html) Cadence. **_AWR Microwave Office_**  
+[[view]](https://www.cadence.com/en_US/home/tools/system-analysis/rf-microwave-design/awr-tx-line.html) Cadence. **_AWR TX-LINE_**  
+[[view]](https://scikit-rf.readthedocs.io/en/latest/index.html) **_scikit-rf_** [[IEEE]](https://ieeexplore.ieee.org/document/9632487)  
 
-[[C15].](https://www.synopsys.com/implementation-and-signoff/ams-simulation/primesim-hspice.html) Synopsys. **_HSPICE_**  
-[[C16].](https://www.orcad.com/products/orcad-pspice-designer/overview) OrCAD. **_PSpice Designer_**  
-[[C17].](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/analog-mixed-signal-simulation/pspice.html) Cadence. **_PSpice_**  
+[[view]](https://www.synopsys.com/implementation-and-signoff/ams-simulation/primesim-hspice.html) Synopsys. **_HSPICE_**  
+[[view]](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/analog-mixed-signal-simulation/pspice.html) Cadence. **_PSpice_**  
+[[view]](https://www.orcad.com/products/orcad-pspice-designer/overview) OrCAD. **_PSpice Designer_**  
 
 _Tutorials_
 
