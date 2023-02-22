@@ -75,11 +75,11 @@ _Computational Electromagnetics_
 [[R20].](https://books.google.com/books/about/Theory_and_Computation_of_Electromagneti.html?id=3NVZCgAAQBAJ) 2015. Jin. _Theory and Computation of Electromagnetic Fields_. 2nd Edition  
 [[R21].](https://www.wiley.com/en-us/The+Finite+Element+Method+in+Electromagnetics%2C+3rd+Edition-p-9781118571361) 2014. Jin. _The FEM in Electromagnetics. 3rd Edition_  
 [[R22].](https://www.cambridge.org/core/books/numerical-electromagnetics/C662D0321F07312BC62853E39E68E4A5) 2011. Inan. _Numerical Electromagnetics: The FDTD Method_  
-[[R23].](https://www.morganclaypool.com/doi/abs/10.2200/S00102ED1V01Y200807CEM012) 2009. Chew. Tong. _IE Methods for Electromagnetic and Elastic Waves_  
+[[R23].](https://link.springer.com/book/10.1007/978-3-031-01707-0) 2009. Chew. Tong. _IE Methods for Electromagnetic and Elastic Waves_  
 [[R24].](https://shop.theiet.org/finite-diff-time-dom-em-2-ed) 2009. Elsherbeni. Demir. _The FDTD Method for Electromagnetics_ 2nd Edition  
 [[R25].](https://www.taylorfrancis.com/books/mono/10.1201/9781315222622/numerical-techniques-electromagnetics-matlab%C2%AE-matthew-sadiku) 2009. Sadiku. _Numerical Techniques in Electromagnetics with MATLAB®_. 3rd Edition  
-[[R26].](https://www.morganclaypool.com/doi/abs/10.2200/S00030ED1V01Y200605CEM008) 2007. Berenger. _Perfectly Matched Layer (PML) for Computational Electromagnetics_  
-[[R27].](https://www.morganclaypool.com/doi/abs/10.2200/S00019ED1V01Y200604CEM004) 2006. Polycarpou. _Introduction to the FEM in Electromagnetics_  
+[[R26].](https://link.springer.com/book/10.1007/978-3-031-01696-7) 2007. Berenger. _Perfectly Matched Layer (PML) for Computational Electromagnetics_  
+[[R27].](https://link.springer.com/book/10.1007/978-3-031-01689-9) 2006. Polycarpou. _Introduction to the FEM in Electromagnetics_  
 [[R28].](https://us.artechhouse.com/Computational-Electrodynamics-Third-Edition-P1929.aspx) 2005. Taflove. Hagness. _Computational Electrodynamics_ 3rd Edition  
 
 ## Online Resources
