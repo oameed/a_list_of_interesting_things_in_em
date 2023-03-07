@@ -85,7 +85,7 @@ _Computational Electromagnetics_
 ## Online Resources
 
 [[view]](https://www.everythingrf.com/)  _Everything RF_  
-[[view]](https://www.microwaves101.com/) _Microwaves101_ [[Smith Cahrt (B&W)]](https://www.microwaves101.com/uploads/smith.PDF) [[Smith Cahrt (Color)]](https://www.microwaves101.com/uploads/smith-chart-in-color.PDF)  
+[[view]](https://www.microwaves101.com/) _Microwaves101_ [[Smith Chart (B&W)]](https://www.microwaves101.com/uploads/smith.PDF) [[Smith Chart (Color)]](https://www.microwaves101.com/uploads/smith-chart-in-color.PDF)  
 [[view]](https://www.rfcafe.com/) _RF Cafe_  
 [[view]](https://www.mwrf.com/) _Microwaves & RF_  
 
