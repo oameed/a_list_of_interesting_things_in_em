@@ -80,7 +80,7 @@ _Computational Electromagnetics_
 [[R25].](https://www.taylorfrancis.com/books/mono/10.1201/9781315222622/numerical-techniques-electromagnetics-matlab%C2%AE-matthew-sadiku) 2009. Sadiku. _Numerical Techniques in Electromagnetics with MATLAB®_. 3rd Edition  
 [[R26].](https://link.springer.com/book/10.1007/978-3-031-01696-7) 2007. Berenger. _Perfectly Matched Layer (PML) for Computational Electromagnetics_  
 [[R27].](https://link.springer.com/book/10.1007/978-3-031-01689-9) 2006. Polycarpou. _Introduction to the FEM in Electromagnetics_  
-[[R28].](https://us.artechhouse.com/Computational-Electrodynamics-Third-Edition-P1929.aspx) 2005. Taflove. Hagness. _Computational Electrodynamics_ 3rd Edition  
+[[R28].](https://uk.artechhouse.com/Computational-Electrodynamics-Third-Edition-P1916.aspx) 2005. Taflove. Hagness. _Computational Electrodynamics_. 3rd Edition  
 
 ## Online Resources
 
