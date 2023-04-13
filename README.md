@@ -66,7 +66,7 @@ _Microwave Circuits/Devices/Transmission Systems_
 [[R14].](https://www.pearson.com/en-us/subject-catalog/p/rf-circuit-design-theory--applications/P200000003197/9780131471375) 2009. Ludwig. Bogdanov. _RF Circuit Design: Theory & Applications_. 2nd Edition  
 [[R15].](https://us.artechhouse.com/Nonlinear-Microwave-and-RF-Circuits-Second-Edition-P1097.aspx) 2003. Maas. _Nonlinear Microwave and RF Circuits_. 2nd Edition  
 [[R16].](https://www.wiley.com/en-us/Foundations+for+Microwave+Engineering%2C+2nd+Edition-p-9780780360310) 2001. Collin. _Foundations for Microwave Engineering_. 2nd Edition  
-[[R17].](https://www.pearson.com/us/higher-education/program/Gonzalez-Microwave-Transistor-Amplifiers-Analysis-and-Design-2nd-Edition/PGM222627.html) 1997. Gonzalez. _Microwave Transistor Amplifiers: Analysis and Design_. 2nd Edition  
+[[R17].](https://books.google.com/books/about/Microwave_Transistor_Amplifiers.html?id=-AVTAAAAMAAJ) 1997. Gonzalez. _Microwave Transistor Amplifiers: Analysis and Design_. 2nd Edition  
 
 _Computational Electromagnetics_
 
