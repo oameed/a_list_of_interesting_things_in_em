@@ -18,6 +18,7 @@ _Supporting Repositories_
 [[view]](https://meep.readthedocs.io/en/latest/) **_Meep_** [FDTD]  
 [[view]](https://ipo.llnl.gov/technologies/software/nec-v50-numerical-electromagnetic-code) LLNL. **_NEC_** [MoM]  
 [[view]](https://onelab.info/) **_ONELAB_** [FEM]  
+[[view]](https://www.flexcompute.com/tidy3d/solver/) Flexcompute. **_Tidy3D_** [FDTD]  
 [[view]](https://www.remcom.com/xfdtd-3d-em-simulation-software) REMCOM. **_Xfdtd_** [FDTD]  
 
 [[view]](https://www.3ds.com/products-services/simulia/products/antenna-magus/) SIMULIA. **_Antenna Magus_**  
