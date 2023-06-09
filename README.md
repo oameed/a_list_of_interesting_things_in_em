@@ -85,7 +85,7 @@ _Computational Electromagnetics_
 [[R28].](https://link.springer.com/book/10.1007/978-3-031-01689-9) 2006. Polycarpou. _Introduction to the FEM in Electromagnetics_  
 [[R29].](https://uk.artechhouse.com/Computational-Electrodynamics-Third-Edition-P1916.aspx) 2005. Taflove. Hagness. _Computational Electrodynamics_. 3rd Edition  
 [R30]. 1957. Dwight. _Tables of Integrals and Other Mathematical Data_  
-[[R31].](https://www.wolframalpha.com/calculators/integral-calculator/)  Wolfram Research. _The Integrator_   
+
 ## Online Resources
 
 [[view]](https://www.everythingrf.com/)  _Everything RF_  
@@ -93,3 +93,4 @@ _Computational Electromagnetics_
 [[view]](https://www.rfcafe.com/) _RF Cafe_  
 [[view]](https://www.mwrf.com/) _Microwaves & RF_  
 
+[view](https://www.wolframalpha.com/calculators/integral-calculator/)  Wolfram Research. _The Integrator_   
