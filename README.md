@@ -84,6 +84,7 @@ _Computational Electromagnetics_
 [[R27].](https://link.springer.com/book/10.1007/978-3-031-01696-7) 2007. Berenger. _Perfectly Matched Layer (PML) for Computational Electromagnetics_  
 [[R28].](https://link.springer.com/book/10.1007/978-3-031-01689-9) 2006. Polycarpou. _Introduction to the FEM in Electromagnetics_  
 [[R29].](https://uk.artechhouse.com/Computational-Electrodynamics-Third-Edition-P1916.aspx) 2005. Taflove. Hagness. _Computational Electrodynamics_. 3rd Edition  
+[R30]. 1957. Dwight. _Tables of Integrals and Other Mathematical Data_  
 
 ## Online Resources
 
