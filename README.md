@@ -94,4 +94,4 @@ _Computational Electromagnetics_
 [[view]](https://www.rfcafe.com/) _RF Cafe_  
 [[view]](https://www.mwrf.com/) _Microwaves & RF_  
 
-[[view]](https://www.wolframalpha.com/calculators/integral-calculator/)  Wolfram Research. _The Integrator_   
+[[view]](https://www.wolframalpha.com/calculators/integral-calculator/)  Wolfram Research. _Online Integral Calculator_   
