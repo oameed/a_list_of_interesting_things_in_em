@@ -8,7 +8,7 @@
 [[view]](https://www.ansys.com/products/electronics/ansys-hfss) Ansys. **_HFSS_** [FEM]  
 [[view]](https://lucernhammer.tripointindustries.com/) Tripoint Industries. **_lucernhammer_** [MoM]  
 [[view]](https://meep.readthedocs.io/en/latest/) **_Meep_** [FDTD]  
-[[view]](https://ipo.llnl.gov/technologies/software/nec-v50-numerical-electromagnetic-code) LLNL. **_NEC_** [MoM]  
+[[view]](https://softwarelicensing.llnl.gov/product/nec-v50) LLNL. **_NEC_** [MoM]  
 [[view]](https://onelab.info/) **_ONELAB_** [FEM]  
 [[view]](https://www.flexcompute.com/tidy3d/solver/) Flexcompute. **_Tidy3D_** [FDTD]  
 [[view]](https://www.remcom.com/xfdtd-3d-em-simulation-software) REMCOM. **_Xfdtd_** [FDTD]  
