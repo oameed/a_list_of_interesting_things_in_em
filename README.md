@@ -48,6 +48,7 @@
   * **Electrodynamics**  
     [[view]](https://www.wiley.com/en-us/Balanis%27+Advanced+Engineering+Electromagnetics%2C+3rd+Edition-p-9781394180035) 2023. Balanis. _Advanced Engineering Electromagnetics_. 3rd Edition  
     [[view]](https://www.pearson.com/us/higher-education/program/Ulaby-Pearson-e-Text-Fundamentals-of-Applied-Electromagnetics-Access-Card-8th-Edition/PGM2445419.html) 2020. Ulaby. Ravaioli. _Fundamentals of Applied Electromagnetics_. 8th Edition  
+    [[view]](https://www.wiley.com/en-us/Fields+and+Waves+in+Communication+Electronics%2C+3rd+Edition-p-9780471585510) 1994. Ramo. _Fields and Waves in Communication Electronics_. 3rd Edition  
     [[view]](https://www.pearson.com/uk/educators/higher-education-educators/program/Cheng-Field-and-Wave-Electromagnetics-Pearson-New-International-Edition-2nd-Edition/PGM1052866.html) 1989. Cheng. _Field and Wave Electromagnetics_. 2nd Edition  
     [[view]](https://www.wiley.com/en-us/Time+Harmonic+Electromagnetic+Fields-p-9780471208068) 1961. Harrington. _Time-Harmonic Electromagnetic Fields_  
   
