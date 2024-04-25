@@ -4,7 +4,7 @@
 
 [[view]](https://www.comsol.com/rf-module) COMSOL. **_COMSOL_** [FEM][BEM]  
 [[view]](https://www.3ds.com/products-services/simulia/products/cst-studio-suite/) SIMULIA. **_CST Microwave Studio_** [FEM][FIT][MoM]  
-[[view]](https://www.altair.com/feko/) Altair. **_FEKO_** [FDTD][FEM][MoM] [[Tutorials]](https://digital-library.theiet.org/content/books/ew/sbew521e) [[Teaching]](https://altairuniversity.com/detailed-course-teaching-electromagentic-simulation/)  
+[[view]](https://www.altair.com/feko/) Altair. **_FEKO_** [FDTD][FEM][MoM] [[Tutorials]](https://digital-library.theiet.org/content/books/ew/sbew521e)  
 [[view]](https://www.ansys.com/products/electronics/ansys-hfss) Ansys. **_HFSS_** [FEM]  
 [[view]](https://lucernhammer.tripointindustries.com/) Tripoint Industries. **_lucernhammer_** [MoM]  
 [[view]](https://meep.readthedocs.io/en/latest/) **_Meep_** [FDTD]  
