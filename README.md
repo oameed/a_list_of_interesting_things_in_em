@@ -12,25 +12,25 @@
   
   * **Electrodynamics**  
     [[view]](https://www.wiley.com/en-us/Balanis%27+Advanced+Engineering+Electromagnetics%2C+3rd+Edition-p-9781394180035) 2023. Balanis. _Advanced Engineering Electromagnetics_. 3rd Edition  
-    [[view]](https://www.pearson.com/us/higher-education/program/Ulaby-Pearson-e-Text-Fundamentals-of-Applied-Electromagnetics-Access-Card-8th-Edition/PGM2445419.html) 2020. Ulaby. Ravaioli. _Fundamentals of Applied Electromagnetics_. 8th Edition  
+    [[view]](https://www.pearson.com/us/higher-education/program/Ulaby-Pearson-e-Text-Fundamentals-of-Applied-Electromagnetics-Access-Card-8th-Edition/PGM2445419.html) 2020. Ulaby. _Fundamentals of Applied Electromagnetics_. 8th Edition  
     [[view]](https://commons.library.stonybrook.edu/egp/3/) 2016. Likharev. _Essential Graduate Physics: Classical Electrodynamics_  
     [[view]](https://www.wiley.com/en-us/Fields+and+Waves+in+Communication+Electronics%2C+3rd+Edition-p-9780471585510) 1994. Ramo. _Fields and Waves in Communication Electronics_. 3rd Edition  
     [[view]](https://www.pearson.com/uk/educators/higher-education-educators/program/Cheng-Field-and-Wave-Electromagnetics-Pearson-New-International-Edition-2nd-Edition/PGM1052866.html) 1989. Cheng. _Field and Wave Electromagnetics_. 2nd Edition  
     [[view]](https://www.wiley.com/en-us/Time+Harmonic+Electromagnetic+Fields-p-9780471208068) 1961. Harrington. _Time-Harmonic Electromagnetic Fields_  
   
   * **Microwave Circuits & Systems**  
-    [[view]](https://www.wiley.com/en-us/RF+and+Microwave+Circuit+Design:+Theory+and+Applications-p-9781119114666) 2022. Free. Aitchison. _RF and Microwave Circuit Design_  
+    [[view]](https://www.wiley.com/en-us/RF+and+Microwave+Circuit+Design:+Theory+and+Applications-p-9781119114666) 2022. Free. _RF and Microwave Circuit Design_  
     [[view]](https://www.wiley.com/en-us/Antenna+Theory%3A+Analysis+and+Design%2C+4th+Edition-p-9781118642061) 2016. Balanis. _Antenna Theory: Analysis and Design_. 4th Edition  
-    [[view]](https://www.wiley.com/en-us/Foundations+for+Microstrip+Circuit+Design,+4th+Edition-p-9781118936191) 2016. Edwards. Steer. _Foundations for Microstrip Circuit Design_. 4th Edition  
+    [[view]](https://www.wiley.com/en-us/Foundations+for+Microstrip+Circuit+Design,+4th+Edition-p-9781118936191) 2016. Edwards. _Foundations for Microstrip Circuit Design_. 4th Edition  
     [[view]](https://eceweb1.rutgers.edu/~orfanidi/ewa/) 2016. Orfanidis. _Electromagnetic Waves and Antennas_  
     [[view]](https://www.wiley.com/en-us/Digital+Microwave+Communication%3A+Engineering+Point+to+Point+Microwave+Systems-p-9781118636800) 2013. Kizer. _Digital Microwave Communication: Engineering Point-to-Point Microwave Systems_  
-    [[view]](https://www.wiley.com/en-us/Antenna+Theory+and+Design%2C+3rd+Edition-p-9780470576649) 2012. Stutzman. Thiele. _Antenna Theory and Design_. 3rd Edition  
+    [[view]](https://www.wiley.com/en-us/Antenna+Theory+and+Design%2C+3rd+Edition-p-9780470576649) 2012. Stutzman. _Antenna Theory and Design_. 3rd Edition  
     [[view]](https://www.wiley.com/en-us/Microwave+Engineering%2C+4th+Edition-p-9780470631553) 2011. Pozar. _Microwave Engineering_. 4th Edition  
     [[view]](https://books.google.com/books/about/RF_Circuit_Design.html?id=zpTnMsiUkmwC) 2011. Bowick. _RF Circuit Design_. 2nd Edition  
-    [[view]](https://doi.org/10.1142/p669) 2010. Lee. Luk. _Microstrip Patch Antennas_  
-    [[view]](https://www.pearson.com/en-us/subject-catalog/p/rf-circuit-design-theory--applications/P200000003197/9780131471375) 2009. Ludwig. Bogdanov. _RF Circuit Design: Theory & Applications_. 2nd Edition  
+    [[view]](https://doi.org/10.1142/p669) 2010. Lee. _Microstrip Patch Antennas_  
+    [[view]](https://www.pearson.com/en-us/subject-catalog/p/rf-circuit-design-theory--applications/P200000003197/9780131471375) 2009. Ludwig. _RF Circuit Design: Theory & Applications_. 2nd Edition  
     [[view]](https://us.artechhouse.com/Nonlinear-Microwave-and-RF-Circuits-Second-Edition-P1097.aspx) 2003. Maas. _Nonlinear Microwave and RF Circuits_. 2nd Edition  
-    [[view]](https://books.google.com/books/about/Microstrip_Antenna_Design_Handbook.html?id=_er1LO5pEnUC) 2001. Garg. Bhartia. _Microstrip Antenna Design Handbook_  
+    [[view]](https://books.google.com/books/about/Microstrip_Antenna_Design_Handbook.html?id=_er1LO5pEnUC) 2001. Garg. _Microstrip Antenna Design Handbook_  
     [[view]](https://www.wiley.com/en-us/Foundations+for+Microwave+Engineering%2C+2nd+Edition-p-9780780360310) 2001. Collin. _Foundations for Microwave Engineering_. 2nd Edition  
     [[view]](https://books.google.com/books/about/Microwave_Transistor_Amplifiers.html?id=-AVTAAAAMAAJ) 1997. Gonzalez. _Microwave Transistor Amplifiers: Analysis and Design_. 2nd Edition  
 
@@ -41,12 +41,12 @@
     [[view]](https://books.google.com/books/about/Theory_and_Computation_of_Electromagneti.html?id=3NVZCgAAQBAJ) 2015. Jin. _Theory and Computation of Electromagnetic Fields_. 2nd Edition  
     [[view]](https://www.wiley.com/en-us/The+Finite+Element+Method+in+Electromagnetics%2C+3rd+Edition-p-9781118571361) 2014. Jin. _The FEM in Electromagnetics. 3rd Edition_  
     [[view]](https://www.cambridge.org/core/books/numerical-electromagnetics/C662D0321F07312BC62853E39E68E4A5) 2011. Inan. _Numerical Electromagnetics: The FDTD Method_  
-    [[view]](https://link.springer.com/book/10.1007/978-3-031-01707-0) 2009. Chew. Tong. _IE Methods for Electromagnetic and Elastic Waves_  
-    [[view]](https://shop.theiet.org/finite-diff-time-dom-em-2-ed) 2009. Elsherbeni. Demir. _The FDTD Method for Electromagnetics_ 2nd Edition  
+    [[view]](https://link.springer.com/book/10.1007/978-3-031-01707-0) 2009. Chew. _IE Methods for Electromagnetic and Elastic Waves_  
+    [[view]](https://shop.theiet.org/finite-diff-time-dom-em-2-ed) 2009. Elsherbeni. _The FDTD Method for Electromagnetics_ 2nd Edition  
     [[view]](https://www.taylorfrancis.com/books/mono/10.1201/9781315222622/numerical-techniques-electromagnetics-matlab%C2%AE-matthew-sadiku) 2009. Sadiku. _Numerical Techniques in Electromagnetics with MATLAB_. 3rd Edition  
     [[view]](https://link.springer.com/book/10.1007/978-3-031-01696-7) 2007. Berenger. _Perfectly Matched Layer (PML) for Computational Electromagnetics_  
     [[view]](https://link.springer.com/book/10.1007/978-3-031-01689-9) 2006. Polycarpou. _Introduction to the FEM in Electromagnetics_  
-    [[view]](https://uk.artechhouse.com/Computational-Electrodynamics-Third-Edition-P1916.aspx) 2005. Taflove. Hagness. _Computational Electrodynamics_. 3rd Edition  
+    [[view]](https://uk.artechhouse.com/Computational-Electrodynamics-Third-Edition-P1916.aspx) 2005. Taflove. _Computational Electrodynamics_. 3rd Edition  
     [view] 1957. Dwight. _Tables of Integrals and Other Mathematical Data_  
 
 ## CAD Software
