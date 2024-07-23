@@ -1,40 +1,5 @@
 # A List of Interesting Things in EM
 
-## CAD Software
-
-[[view]](https://www.comsol.com/rf-module) COMSOL. **_COMSOL_** [FEM][BEM]  
-[[view]](https://www.3ds.com/products-services/simulia/products/cst-studio-suite/) SIMULIA. **_CST Microwave Studio_** [FEM][FIT][MoM]  
-[[view]](https://www.altair.com/feko/) Altair. **_FEKO_** [FDTD][FEM][MoM] [[Tutorials]](https://digital-library.theiet.org/content/books/ew/sbew521e)  
-[[view]](https://www.ansys.com/products/electronics/ansys-hfss) Ansys. **_HFSS_** [FEM]  
-[[view]](https://lucernhammer.tripointindustries.com/) Tripoint Industries. **_lucernhammer_** [MoM]  
-[[view]](https://meep.readthedocs.io/en/latest/) **_Meep_** [FDTD]  
-[[view]](https://softwarelicensing.llnl.gov/product/nec-v50) LLNL. **_NEC_** [MoM]  
-[[view]](https://onelab.info/) **_ONELAB_** [FEM]  
-[[view]](https://www.flexcompute.com/tidy3d/solver/) Flexcompute. **_Tidy3D_** [FDTD]  
-[[view]](https://www.remcom.com/xfdtd-3d-em-simulation-software) REMCOM. **_Xfdtd_** [FDTD]  
-
-[[view]](https://www.3ds.com/products-services/simulia/products/antenna-magus/) SIMULIA. **_Antenna Magus_**  
-
-[[view]](https://www.pathloss.com/) CTE. **_Pathloss_**  
-
-[[view]](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html) PathWave. **_Advanced Design System (ADS)_** [[Tutorials]](https://www.keysight.com/us/en/assets/7018-04800/application-notes/5992-0707.pdf)  
-[[view]](https://www.cadence.com/en_US/home/tools/system-analysis/rf-microwave-design/awr-microwave-office.html) Cadence. **_AWR Microwave Office_**  
-[[view]](https://www.cadence.com/en_US/home/tools/system-analysis/rf-microwave-design/awr-tx-line.html) Cadence. **_AWR TX-LINE_**  
-[[view]](https://scikit-rf.readthedocs.io/en/latest/index.html) **_scikit-rf_** [[IEEE]](https://ieeexplore.ieee.org/document/9632487)  
-
-[[view]](https://www.synopsys.com/implementation-and-signoff/ams-simulation/primesim-hspice.html) Synopsys. **_HSPICE_**  
-[[view]](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/analog-mixed-signal-simulation/pspice.html) Cadence. **_PSpice_**  
-[[view]](https://www.orcad.com/products/orcad-pspice-designer/overview) OrCAD. **_PSpice Designer_**  
-
-## Online Resources
-
-[[view]](https://www.everythingrf.com/)  _Everything RF_  
-[[view]](https://www.microwaves101.com/) _Microwaves101_ [[Smith Chart (B&W)]](https://www.microwaves101.com/uploads/smith.PDF) [[Smith Chart (Color)]](https://www.microwaves101.com/uploads/smith-chart-in-color.PDF)  
-[[view]](https://www.rfcafe.com/) _RF Cafe_  
-[[view]](https://www.mwrf.com/) _Microwaves & RF_  
-
-[[view]](https://www.wolframalpha.com/calculators/integral-calculator/)  Wolfram Research. _Online Integral Calculator_   
-
 ## A Handbook of Applied EM
 
 * **_Supporting Repositories_**  
@@ -85,4 +50,39 @@
     [[view]](https://link.springer.com/book/10.1007/978-3-031-01689-9) 2006. Polycarpou. _Introduction to the FEM in Electromagnetics_  
     [[view]](https://uk.artechhouse.com/Computational-Electrodynamics-Third-Edition-P1916.aspx) 2005. Taflove. Hagness. _Computational Electrodynamics_. 3rd Edition  
     [view] 1957. Dwight. _Tables of Integrals and Other Mathematical Data_  
+
+## CAD Software
+
+[[view]](https://www.comsol.com/rf-module) COMSOL. **_COMSOL_** [FEM][BEM]  
+[[view]](https://www.3ds.com/products-services/simulia/products/cst-studio-suite/) SIMULIA. **_CST Microwave Studio_** [FEM][FIT][MoM]  
+[[view]](https://www.altair.com/feko/) Altair. **_FEKO_** [FDTD][FEM][MoM] [[Tutorials]](https://digital-library.theiet.org/content/books/ew/sbew521e)  
+[[view]](https://www.ansys.com/products/electronics/ansys-hfss) Ansys. **_HFSS_** [FEM]  
+[[view]](https://lucernhammer.tripointindustries.com/) Tripoint Industries. **_lucernhammer_** [MoM]  
+[[view]](https://meep.readthedocs.io/en/latest/) **_Meep_** [FDTD]  
+[[view]](https://softwarelicensing.llnl.gov/product/nec-v50) LLNL. **_NEC_** [MoM]  
+[[view]](https://onelab.info/) **_ONELAB_** [FEM]  
+[[view]](https://www.flexcompute.com/tidy3d/solver/) Flexcompute. **_Tidy3D_** [FDTD]  
+[[view]](https://www.remcom.com/xfdtd-3d-em-simulation-software) REMCOM. **_Xfdtd_** [FDTD]  
+
+[[view]](https://www.3ds.com/products-services/simulia/products/antenna-magus/) SIMULIA. **_Antenna Magus_**  
+
+[[view]](https://www.pathloss.com/) CTE. **_Pathloss_**  
+
+[[view]](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html) PathWave. **_Advanced Design System (ADS)_** [[Tutorials]](https://www.keysight.com/us/en/assets/7018-04800/application-notes/5992-0707.pdf)  
+[[view]](https://www.cadence.com/en_US/home/tools/system-analysis/rf-microwave-design/awr-microwave-office.html) Cadence. **_AWR Microwave Office_**  
+[[view]](https://www.cadence.com/en_US/home/tools/system-analysis/rf-microwave-design/awr-tx-line.html) Cadence. **_AWR TX-LINE_**  
+[[view]](https://scikit-rf.readthedocs.io/en/latest/index.html) **_scikit-rf_** [[IEEE]](https://ieeexplore.ieee.org/document/9632487)  
+
+[[view]](https://www.synopsys.com/implementation-and-signoff/ams-simulation/primesim-hspice.html) Synopsys. **_HSPICE_**  
+[[view]](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/analog-mixed-signal-simulation/pspice.html) Cadence. **_PSpice_**  
+[[view]](https://www.orcad.com/products/orcad-pspice-designer/overview) OrCAD. **_PSpice Designer_**  
+
+## Online Resources
+
+[[view]](https://www.everythingrf.com/)  _Everything RF_  
+[[view]](https://www.microwaves101.com/) _Microwaves101_ [[Smith Chart (B&W)]](https://www.microwaves101.com/uploads/smith.PDF) [[Smith Chart (Color)]](https://www.microwaves101.com/uploads/smith-chart-in-color.PDF)  
+[[view]](https://www.rfcafe.com/) _RF Cafe_  
+[[view]](https://www.mwrf.com/) _Microwaves & RF_  
+
+[[view]](https://www.wolframalpha.com/calculators/integral-calculator/)  Wolfram Research. _Online Integral Calculator_   
 
