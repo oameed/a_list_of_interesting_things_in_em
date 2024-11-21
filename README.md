@@ -2,6 +2,8 @@
 
 ## A Handbook of Applied EM
 
+* **_A Handbook of Applied EM_**  [[Presentation]]() [[Derivation Tables]]()  
+
 * **_Supporting Repositories_**  
   [[view]](https://gitlab.com/oameed/cem_fdm_2d) Finite Difference Method (FDM) for 2D Problems  
   [[view]](https://gitlab.com/oameed/cem_fem_2d) Finite Element Method (FEM) for 2D Problems  
