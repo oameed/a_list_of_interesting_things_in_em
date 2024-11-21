@@ -2,7 +2,7 @@
 
 ## A Handbook of Applied EM
 
-* **_A Handbook of Applied EM_**  [[Presentation]]() [[Derivation Tables]]()  
+* **_A Handbook of Applied EM_**  [[Presentation]](https://archive.org/details/a-handbook-of-applied-em) [[Derivation Tables]](https://archive.org/details/a-handbook-of-applied-em-derivation-tables)  
 
 * **_Supporting Repositories_**  
   [[view]](https://gitlab.com/oameed/cem_fdm_2d) Finite Difference Method (FDM) for 2D Problems  
