@@ -39,7 +39,7 @@
   * **Computational Electromagnetics**  
     [[view]](https://www.taylorfrancis.com/books/mono/10.1201/9780429355509/method-moments-electromagnetics-walton-gibson) 2021. Gibson. _The Method of Moments in Electromagnetics_. 3rd Edition  
     [[view]](https://shop.theiet.org/numerical-methods-for-engineering-2nd-edition) 2020. Warnick. _Numerical Methods for Engineering An introduction using MATLAB_. 2nd Edition  
-    [[view]](https://www.mheducation.com/highered/product/introduction-finite-element-method-4e-reddy/9781259861901.html) 2019. Reddy. _An Introduction to the FEM. 4th Edition_  
+    [view] 2019. Reddy. _An Introduction to the FEM. 4th Edition_  
     [[view]](https://books.google.com/books/about/Theory_and_Computation_of_Electromagneti.html?id=3NVZCgAAQBAJ) 2015. Jin. _Theory and Computation of Electromagnetic Fields_. 2nd Edition  
     [[view]](https://www.wiley.com/en-us/The+Finite+Element+Method+in+Electromagnetics%2C+3rd+Edition-p-9781118571361) 2014. Jin. _The FEM in Electromagnetics. 3rd Edition_  
     [[view]](https://www.cambridge.org/core/books/numerical-electromagnetics/C662D0321F07312BC62853E39E68E4A5) 2011. Inan. _Numerical Electromagnetics: The FDTD Method_  
