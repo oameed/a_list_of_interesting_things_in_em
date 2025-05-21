@@ -80,6 +80,9 @@
 
 ## Online Resources
 
+[[view]](https://www.youtube.com/playlist?list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8) R&S. _Test & Measurement Fundamentals_  
+[[view]](https://www.ni.com/en/shop/data-acquisition/measurement-fundamentals.html) NI. _Measurement Fundamentals_  
+
 [[view]](https://www.everythingrf.com/)  _Everything RF_  
 [[view]](https://www.microwaves101.com/) _Microwaves101_ [[Smith Chart (B&W)]](https://www.microwaves101.com/uploads/smith.PDF) [[Smith Chart (Color)]](https://www.microwaves101.com/uploads/smith-chart-in-color.PDF)  
 [[view]](https://www.rfcafe.com/) _RF Cafe_  
