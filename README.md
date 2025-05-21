@@ -80,13 +80,26 @@
 
 ## Online Resources
 
-[[view]](https://www.youtube.com/playlist?list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8) R&S. _Test & Measurement Fundamentals_  
-[[view]](https://www.ni.com/en/shop/data-acquisition/measurement-fundamentals.html) NI. _Measurement Fundamentals_  
+* [**_Test & Measurement Fundamentals by Rohde & Schwarz_**](https://www.youtube.com/playlist?list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8)  
+  * [What is RF?](https://www.youtube.com/watch?v=WPjniblApwk&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=128)  
+  * [VSWR & RL](https://www.youtube.com/watch?v=BijMGKbT0Wk&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=4)  
+  * [Smith Chart](https://www.youtube.com/watch?v=rUDMo7hwihs&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=2&t=9s)  
+  * [S-Parameters](https://www.youtube.com/watch?v=-Pi0UbErHTY&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=3)  
+  * [Gain Compression & P1dB](https://www.youtube.com/watch?v=30dWNYNzjfI&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=18)  
+  * [IP3](https://www.youtube.com/watch?v=m-2H8ddSwTI&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=21)  
+  * [Load Pull](https://www.youtube.com/watch?v=JtMeIdlEe40&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=12&t=1s)  
+  * [Phase Noise (I)](https://www.youtube.com/watch?v=hfgaEjf1154&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=35)  
+  * [Phase Noise (II)](https://www.youtube.com/watch?v=pL0pY-t8KWY&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=36)  
+  * [Phase Noise (III)](https://www.youtube.com/watch?v=Sf7qiysPFbQ&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=37)     
 
-[[view]](https://www.everythingrf.com/)  _Everything RF_  
-[[view]](https://www.microwaves101.com/) _Microwaves101_ [[Smith Chart (B&W)]](https://www.microwaves101.com/uploads/smith.PDF) [[Smith Chart (Color)]](https://www.microwaves101.com/uploads/smith-chart-in-color.PDF)  
-[[view]](https://www.rfcafe.com/) _RF Cafe_  
-[[view]](https://www.mwrf.com/) _Microwaves & RF_  
+* [**_Measurement Fundamentals by National Instruments_**](https://www.ni.com/en/shop/data-acquisition/measurement-fundamentals.html)  
 
-[[view]](https://www.wolframalpha.com/calculators/integral-calculator/)  Wolfram Research. _Online Integral Calculator_   
+* [**_Everything RF_**](https://www.everythingrf.com/)  
+* [**_Microwaves101_**](https://www.microwaves101.com/)  
+  * [Smith Chart (B&W)](https://www.microwaves101.com/uploads/smith.PDF)  
+  * [Smith Chart (Color)](https://www.microwaves101.com/uploads/smith-chart-in-color.PDF)  
+* [**_RF Cafe_**](https://www.rfcafe.com/)  
+* [**_Microwaves & RF_**](https://www.mwrf.com/)  
+
+* [**_Online Integral Calculator by  Wolfram Research_**](https://www.wolframalpha.com/calculators/integral-calculator/)  
 
